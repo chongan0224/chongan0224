@@ -25,6 +25,44 @@
 - Feel free to contact me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nguyentrongan022403/)) 🏆. 
 <br>
 
+## 🛠️ My Skills  
+-------------------
+### **Programming Languages:**
+![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)  
+
+### **Machine Learning & AI:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=NumPy)
+![Keras](https://img.shields.io/badge/-Keras-000?logo=Keras)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=OpenCV)  
+
+
+## **Data Visualization:**
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?logo=Seaborn)
+
+### **Cloud & DevOps:**
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+
+### **Databases:**  
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
+
+### **Misc Tools:**
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?logo=Jupyter)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?logo=LaTeX)
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
