@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&width=435&lines=HELLO%2C+I'M+TRONG+AN;A+PASSIONATE+AI+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&width=435&lines=HELLO%2C+I'M+TRONG+AN;A+PASSIONATE+AI+ENGINEER)](https://git.io/typing-svg)
 
 ![Image](https://github.com/user-attachments/assets/076be4f5-2158-4398-80a5-43c1ea46e76e)
 
@@ -61,7 +61,24 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?logo=LaTeX)
 
+<h3 align="center" >Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/nguyentrongan022403/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/chongan0224">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="mailto:trongan022403@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="fb.com/ngtrongann">
+		<img src="https://img.icons8.com/?size=100&id=ddJXF_L1PvL_&format=png&color=000000" style="width:43px; height:43px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="instagram.com/ngtrongan">
+		<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" style="width:43px; height:43px;"></a>
+      </div>
+
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
