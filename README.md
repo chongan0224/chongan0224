@@ -22,7 +22,7 @@
 - :nerd_face: A good listener and always learning new things.  
 - 💬 Ask me about anything, I love to discuss it more!
 - :thinking: I’m currently open for a new job opportunity.  
-- Feel free to contact me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nguyentrongan022403/)) 🏆. 
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nguyentrongan022403/) 🏆. 
 <br>
 
 ## 🛠️ My Skills  
